@@ -1,0 +1,41 @@
+@font-face {font-family: "Muiicons";
+    font-weight: normal;
+    font-style: normal;
+        src:url('../fonts/iconfont.ttf') format('truetype');
+    }
+    
+.mui-icon
+{
+    font-family: Muiicons;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    -webkit-font-smoothing: antialiased;
+}
+
+.icon-caifua:before {
+  content: "\e668";
+}
+
+.icon-wode:before {
+  content: "\e666";
+}
+
+.icon-koubei:before {
+  content: "\e6de";
+}
+
+.icon-pengyou:before {
+  content: "\e61a";
+}
+
+.icon-zhifubao:before {
+  content: "\e636";
+}
+
